@@ -8,12 +8,19 @@
   This journey equips me with the essential knowledge and skills required to address real-world data science challenges, rendering the project a comprehensive and practical guide from inception to completion.
 
 ## Project Lifecycle
-Reading Data & Deling With Missing Valuse
-Data Preprocessing & Extract Derived Attributes
-Data Analysis
-Data Encoding
-Outlier
-ML Model Building
+
+1. Reading Data & Deling With Missing Valuse
+
+2. Data Preprocessing & Extract Derived Attributes
+
+3. Data Analysis
+
+4. Data Encoding
+
+5. Outlier
+
+6. ML Model Building
+
 Project can be found at: 
 
 ## Tech Stack
