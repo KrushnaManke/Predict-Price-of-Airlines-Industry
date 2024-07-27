@@ -11,18 +11,16 @@
 
 1. Reading Data & Deling With Missing Valuse
 2. Data Preprocessing & Extract Derived Attributes
-
 3. Data Analysis
-
 4. Data Encoding
-
 5. Outlier
-
 6. ML Model Building
-
 Project can be found at: 
 
 ## Tech Stack
+
 Programming Languages: Python 3.10
+
 Tools used: PowerBI
+
 Libraries used: NumPy, pandas, dataprep, matplotlib, scipy, seabron, TensorFlow, sklearn. 
