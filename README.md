@@ -10,7 +10,6 @@
 ## Project Lifecycle
 
 1. Reading Data & Deling With Missing Valuse
-
 2. Data Preprocessing & Extract Derived Attributes
 
 3. Data Analysis
