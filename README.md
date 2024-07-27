@@ -15,7 +15,8 @@
 4. Data Encoding
 5. Outlier
 6. ML Model Building
-Project can be found at: 
+   
+Project can be found at:https://github.com/KrushnaManke/Predict-Price-of-Airlines-Industry
 
 ## Tech Stack
 
