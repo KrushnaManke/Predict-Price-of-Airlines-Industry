@@ -25,3 +25,5 @@ Programming Languages: Python 3.10
 Tools used: PowerBI
 
 Libraries used: NumPy, pandas, dataprep, matplotlib, scipy, seabron, TensorFlow, sklearn. 
+
+## Full project is in this [Flight_Predition_By_Krishna_Manke.ipynb] file
